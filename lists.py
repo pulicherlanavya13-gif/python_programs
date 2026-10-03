@@ -1,0 +1,10 @@
+l=[1,2,3,4,2]
+#l.append(5)
+#l.insert(0,5)
+#l.remove(1)
+#l.pop()
+#print(l.count(2))
+print(l.index(2))
+#l.sort()
+l.reverse()
+print(l)

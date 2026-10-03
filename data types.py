@@ -1,0 +1,63 @@
+# a=10
+# b=20
+# c=30
+# d=40
+# e=50
+# print(max(a,b,c,d,e))
+# print(min(a,b,c,d,e))
+# a=10
+# a=10.5
+# print(a)
+# a=10.5
+# a=10
+# print(a)
+# print(type(a))
+# name=10
+# name="archana"
+# print(name)
+# print(type(name))
+# a="10"
+# a=(int(a))
+# print(a)
+# a=10
+# b=10.5
+# c="20"
+# d=(10,10.5,20)
+# e={"hi","50"}
+# print(a)
+# print(type(a))
+# print(b)
+# print(type(b))
+# print(c)
+# print(type(c))
+# print(d)
+# print(type(d))
+# print(e)
+# print(type(e))
+# length=6
+# width=4
+# area=length*width
+# print(area)
+# area=int(area)
+# area=float(area)
+# print(area)
+# maths=60
+# science=50
+# history=80
+# civics=85
+# finance=90
+# print(maths+science+history+civics+finance)
+# print((maths+science+history+civics+finance)/500*100)
+# name="archana"
+# print(len(name))
+# name="navya"
+# print(name.upper())
+# name="NAVYA"
+# print(name.lower())
+# first_name="pulicherla"
+# last_name="archana"
+# print(first_name+" "+last_name)
+# book="book is used for the reading"
+# # print("used" in book)
+# book="book is used for the reading"
+# print("used" not in book)
